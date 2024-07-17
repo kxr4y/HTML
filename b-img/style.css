@@ -1,0 +1,22 @@
+*{
+    background: url(images/background.png);
+}
+div{
+    width: 300px;
+    height: 200px;
+    border: solid;
+}
+.a{
+    background: url(images/puppy.png);
+}
+.b{
+    background: url(images/cat.png);
+    background-repeat: no-repeat;
+}
+.c{
+    background-color: black;
+}
+.d{
+    background-color: #fff;
+    background-image: url(images/strawberry.png);
+}
